@@ -52,7 +52,7 @@ I don't speak a lot but I'm not an introvert as I like learning new things and m
 - [A simple CUI based money transaction application(MyMoney) written in Java](https://github.com/thehexdev/MyMoney)
 - [MyMoney Android App](https://github.com/thehexdev/MyMoney-android)
 - [Text manipulation website using django](https://github.com/thehexdev/TextUtils)
-- [A GUI snake game using python]()
+- [A GUI snake game using python](https://github.com/thehexdev/blockSnake)
 - Find rest of my projects [here](https://github.com/thehexdev?tab=repositories)
 
 ## 🎯Currently working on:
