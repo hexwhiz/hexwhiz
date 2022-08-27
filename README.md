@@ -8,7 +8,7 @@
 A Rookie Web Developer💻, Open Source Contributer⚔️ and A Space Nerd🚀!
 </h2>  
 
-Hello this is my bio. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. This I will change and update later. For now, let's focus on structural development of the profile page.😉
+I don't speak a lot but I'm not an introvert as I like learning new things and meeting new people. Space🔭 is my love and learning about the mysteries of our universe is fascinating✨. Now if you ask "Why programming then?", well I need money💸 to keep my ambition alive😜. But I enjoy it too. Other things I like are maths➕,physics⚛️,music🎧,anime😺,football⚽,video games🎮 and a few more. To know more about me you can explore my Github profile. Have a nice day!!
 
 ## 🤝Connect with me:
   
