@@ -12,7 +12,7 @@ I don't speak a lot but I'm not an introvert as I like learning new things and m
 
 ## 🤝Connect with me:
   
-<a href="https://discord.gg/awybScJC"><img style="height:25px; width:25px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"></a>&nbsp;&nbsp;
+<a href="https://discord.gg/awybScJC"><img height=25 src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"></a>&nbsp;&nbsp;
 <a href="https://www.reddit.com/user/thehexdev"><img style="height:25px; width:25px;" src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png"></a>&nbsp;&nbsp;
 <a href="https://replit.com/@thehexdev"><img style="height:25px; width:25px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSywj2OHTEYOJ6odcOLkzA03Ny1Rkq4FcDQ42oR4hgfGuqpU-APrGE3t-&s=10"></a>&nbsp;&nbsp;
 <a href="https://t.me/snymgoel"><img style="height:25px; width:25px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"></a>&nbsp;&nbsp;
