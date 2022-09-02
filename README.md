@@ -2,7 +2,7 @@
 <img src="banner.gif" style="width:1000px;" alt="my_banner">
 </div>
 
-<h1 align="center">Namaste, I'm Hex 🙏</h1>
+<h1 align="center">Namaste, I'm Sanyam 🙏</h1>
 
 <h2 align="center">
 A Rookie Web Developer💻, Open Source Contributer⚔️ and A Space Nerd🚀!
