@@ -16,6 +16,7 @@ I don't speak a lot but I'm not an introvert as I like learning new things and m
 <a href="https://www.reddit.com/user/thehexdev"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png"></a>&nbsp;&nbsp;
 <a href="https://replit.com/@thehexdev"><img height=25 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSywj2OHTEYOJ6odcOLkzA03Ny1Rkq4FcDQ42oR4hgfGuqpU-APrGE3t-&s=10"></a>&nbsp;&nbsp;
 <a href="https://t.me/snymgoel"><img height=25 src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/thehexdev"><img height=25 src="https://cdn-icons-png.flaticon.com/512/124/124021.png" ></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/snymgoel"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@sanyamgoel"><img height=25 src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" ></a>
 <br>
