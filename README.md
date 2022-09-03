@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.gif" style="width:1000px;" alt="my_banner">
+<img src="banner_new.gif" style="width:1000px;" alt="my_banner">
 </div>
 
 <h1 align="center">Namaste, I'm Sanyam 🙏</h1>
