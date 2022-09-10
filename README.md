@@ -8,21 +8,19 @@
 A Rookie Web Developer💻, Open Source Contributer⚔️ and A Space Nerd🚀!
 </h2>  
 
-I don't speak a lot but I'm not an introvert as I like learning new things and meeting new people. Space🔭 is my love and learning about the mysteries of our universe is fascinating✨. Now if you ask "Why programming then?", well I need money💸 to keep my ambition alive😜. But I enjoy it too. Other things I like are maths➕,physics⚛️,music🎧,football⚽,video games🎮 and a few more. To know more about me you can explore my Github profile. Have a nice day!!
+I am a learning web developer who have a particular interest in open source development. I have a passion to learn new technologies and share my knowledge with others as much as possible. Space and physics are my passion. I love to understand how our universe works. My other interests are football,music,coffee,anime and occasional video games.
 
-## 🤝Connect with me:
+## 🔍Find me elsewhere:
   
 <a href="https://discord.gg/awybScJC"><img height=25 src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"></a>&nbsp;&nbsp;
 <a href="https://www.reddit.com/user/thehexdev"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png"></a>&nbsp;&nbsp;
-<a href="https://replit.com/@thehexdev"><img height=25 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSywj2OHTEYOJ6odcOLkzA03Ny1Rkq4FcDQ42oR4hgfGuqpU-APrGE3t-&s=10"></a>&nbsp;&nbsp;
 <a href="https://t.me/snymgoel"><img height=25 src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/thehexdev"><img height=25 src="https://cdn-icons-png.flaticon.com/512/124/124021.png" ></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/snymgoel"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@sanyamgoel"><img height=25 src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" ></a>
+<a href="https://www.instagram.com/thehexdev/"><img height=25 src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>
 <br>
-- 💬Join my [Discord](https://discord.gg/awybScJC) server or drop a message on [Telegram](https://t.me/iamsanyamgoel) to contact me directly.  
+- 💬Join my [Discord](https://discord.gg/awybScJC) server or drop a message on [Telegram](https://t.me/snymgoel) to contact me directly.  
 
-## 🤹Technical Skills:
+## 🤹Technical skills:
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57&logoColor=white)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAbwAAAG8B8aLcQwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHsSURBVDiNjZFPSJRRFMXPuW++MUodW7hoUWjSygiDpj9gZARuC6JaaQZtJRCLNhHRrjTJliKN/dtGFIFQ0SZyk1K0KCoitE2KORkyM9/33dM6nSkvvNV577zfOReS8L/zaV/uYi3NsJ6hd9eS/m1A8vP+3AjAcs0rkqoKHzubG0JauQ9gh7mOyuxQ21RxHJKviyCk5dsAdkF+yY0PKL1c/bgmwYcDm1sy8K/mzLtpMigcbp1afFfto6oEkSUrACrKWAlAU2LpzlqkVQ3aXi3/IHBNabqb0hidJ2oZrIkwMFFpJ0Pr71KYHBzPdVtQBFlz2+ulsYGJSruZHZf0eLg3mlljMHgnPgfwOqCHAN+K4IZScXu5rrGe4FzimauB8UkYzw71ZPauiTDUG92UocsY3ogq0jUfR7kCHEPlkLky0oclmnVQnK4Z4UIh7nDjLUHbIC6Q+Enqu8uekogFb7zRE00IEABkVpeyqSV6v/wtWQD4COQs6fVybok9vBg9g3kgYLhaiecLSZeITpOeJIZsEI84kSc4J/o0kuh5nEWxLkkPln+FZ6P9KP9FIMMxAL1OO23UnKBZA78I2GjgKbekP5tiUYapqCluBqJC9TXejffQQx7mWw1qcqGBworAFZJZwGcaPLp3uQ8lAPgDcmsQWulW/R8AAAAASUVORK5CYII=&color=db380e)
