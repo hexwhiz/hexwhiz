@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner_new.gif" style="width:1000px;" alt="my_banner">
+<img src="regihex.gif" style="width:1000px;" alt="my_banner">
 </div>
 
 <h1 align="center">Namaste, I'm Sanyam 🙏</h1>
@@ -8,17 +8,15 @@
 A Rookie Web Developer💻, Open Source Contributer⚔️ and A Space Nerd🚀!
 </h2>  
 
-I am a learning web developer who have a particular interest in open source development. I have a passion to learn new technologies and share my knowledge with others as much as possible. Space and physics are my passion. I love to understand how our universe works. My other interests are football,music,coffee and occasional video games.
+I am a learning web developer who have a particular interest in open source development. I have a passion to learn new technologies and share my knowledge with others as much as possible. Space and physics are my passion. I love to understand how our universe works. My other interests are reading, football, music and video games.
 
 ## 🔍Find me elsewhere:
   
-<a href="https://discord.gg/awybScJC"><img height=25 src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/thehexdev"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png"></a>&nbsp;&nbsp;
-<a href="https://t.me/snymgoel"><img height=25 src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/thehexdev"><img height=25 src="https://cdn-icons-png.flaticon.com/512/124/124021.png" ></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/thehexdev/"><img height=25 src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>
+<a href="https://www.reddit.com/user/regihex"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png"></a>&nbsp;&nbsp;
+<a href="https://t.me/regihex"><img height=25 src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/regihex/"><img height=25 src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>&nbsp;&nbsp;
+<a href="www.linkedin.com/in/goelsanyam"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" ></a>
 <br>
-- 💬Join my [Discord](https://discord.gg/awybScJC) server or drop a message on [Telegram](https://t.me/snymgoel) to contact me directly.  
 
 ## 🤹Technical skills:
 
@@ -48,15 +46,15 @@ I am a learning web developer who have a particular interest in open source deve
 
 ## ⚒️My projects:
 
-- [A simple CUI based money transaction application(MyMoney) written in Java](https://github.com/thehexdev/MyMoney)
-- [MyMoney Android App](https://github.com/thehexdev/MyMoney-android)
-- [Text manipulation website using django](https://github.com/thehexdev/TextUtils)
-- [A GUI snake game using python](https://github.com/thehexdev/blockSnake)
-- Find rest of my projects [here](https://github.com/thehexdev?tab=repositories)
+- [A simple CUI based money transaction application(MyMoney) written in Java](https://github.com/regihex/MyMoney)
+- [MyMoney Android App](https://github.com/regihex/MyMoney-android)
+- [Text manipulation website using django](https://github.com/regihex/TextUtils)
+- [A GUI snake game using python](https://github.com/regihex/blockSnake)
+- Find rest of my projects [here](https://github.com/regihex?tab=repositories)
 
 ## 🎯Currently working on:
 
-- [An e-commerce website using django](https://github.com/thehexdev/Hexcart)
+- [An e-commerce website using django](https://github.com/regihex/Hexcart)
 
 ## ✍️Latest blog posts:
 
@@ -64,7 +62,7 @@ I am a learning web developer who have a particular interest in open source deve
 
 ## 📈Github stats:
 
-<img src="https://komarev.com/ghpvc/?username=thehexdev&color=BA67F6" height="30">
+<img src="https://komarev.com/ghpvc/?username=regihex&color=BA67F6" height="30">
 
-![Hex's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehexdev&show_icons=true&title_color=BA67F6&icon_color=fcb1ec&text_color=21d3b2&bg_color=000000)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehexdev&layout=compact&title_color=BA67F6&text_color=21d3b2&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+![Hex's GitHub stats](https://github-readme-stats.vercel.app/api?username=regihex&show_icons=true&title_color=BA67F6&icon_color=fcb1ec&text_color=21d3b2&bg_color=000000)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regihex&layout=compact&title_color=BA67F6&text_color=21d3b2&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
