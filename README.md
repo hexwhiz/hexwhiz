@@ -15,7 +15,7 @@ I am a learning web developer who have a particular interest in open source deve
 <a href="https://www.reddit.com/user/regihex"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png"></a>&nbsp;&nbsp;
 <a href="https://t.me/regihex"><img height=25 src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/regihex/"><img height=25 src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>&nbsp;&nbsp;
-<a href="www.linkedin.com/in/goelsanyam"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" ></a>
+<a href="https://www.linkedin.com/in/goelsanyam"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" ></a>
 <br>
 
 ## 🤹Technical skills:
