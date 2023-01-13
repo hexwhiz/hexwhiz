@@ -64,5 +64,5 @@ I am a learning web developer who have a particular interest in open source deve
 
 <img src="https://komarev.com/ghpvc/?username=regihex&color=BA67F6" height="30">
 
-![Hex's GitHub stats](https://github-readme-stats.vercel.app/api?username=regihex&show_icons=true&title_color=BA67F6&icon_color=fcb1ec&text_color=21d3b2&bg_color=000000)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regihex&layout=compact&title_color=BA67F6&text_color=21d3b2&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+![Hex's GitHub stats](https://github-readme-stats-new-sigma.vercel.app/api?username=regihex&show_icons=true&title_color=BA67F6&icon_color=fcb1ec&text_color=21d3b2&bg_color=000000)  
+[![Top Langs](https://github-readme-stats-new-sigma.vercel.app/api/top-langs/?username=regihex&layout=compact&title_color=BA67F6&text_color=21d3b2&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
