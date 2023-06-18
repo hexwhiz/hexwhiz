@@ -58,7 +58,7 @@ I am a learning web developer who have a particular interest in open source deve
 
 ## ✍️Latest blog posts:
 
-- Currently not posting
+- [The Fantasy Terminal](https://dub.sh/thefantasyterminal)
 
 ## 📈Github stats:
 
