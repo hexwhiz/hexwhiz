@@ -1,6 +1,8 @@
-<div align="center">
-<img src="regihex.gif" style="width:1000px;" alt="my_banner">
-</div>
+<!-- <div align="center"> -->
+<!-- <img src="regihex.gif" style="width:1000px;" alt="my_banner"> -->
+<!-- </div> -->
+
+# <banner.jpg removed>
 
 <h1 align="center">Namaste, I'm Sanyam 🙏</h1>
 
@@ -12,9 +14,9 @@ I am a learning web developer who have a particular interest in open source deve
 
 ## 🔍Find me elsewhere:
   
-<a href="https://www.reddit.com/user/regihex"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png"></a>&nbsp;&nbsp;
-<a href="https://t.me/regihex"><img height=25 src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/regihex/"><img height=25 src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>&nbsp;&nbsp;
+<!-- <a href="https://www.reddit.com/user/regihex"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png"></a>&nbsp;&nbsp; -->
+<a href="https://t.me/iamsanyamgoel"><img height=25 src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/iamsanyamgoel/"><img height=25 src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/goelsanyam"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" ></a>
 <br>
 
@@ -46,15 +48,15 @@ I am a learning web developer who have a particular interest in open source deve
 
 ## ⚒️My projects:
 
-- [A simple CUI based money transaction application(MyMoney) written in Java](https://github.com/regihex/MyMoney)
-- [MyMoney Android App](https://github.com/regihex/MyMoney-android)
-- [Text manipulation website using django](https://github.com/regihex/TextUtils)
-- [A GUI snake game using python](https://github.com/regihex/blockSnake)
-- Find rest of my projects [here](https://github.com/regihex?tab=repositories)
+- [A simple CUI based money transaction application(MyMoney) written in Java](https://github.com/iamsanyamgoel/MyMoney)
+- [MyMoney Android App](https://github.com/iamsanyamgoel/MyMoney-android)
+- [Text manipulation website using django](https://github.com/iamsanyamgoel/TextUtils)
+- [A GUI snake game using python](https://github.com/iamsanyamgoel/blockSnake)
+- Find rest of my projects [here](https://github.com/iamsanyamgoel?tab=repositories)
 
 ## 🎯Currently working on:
 
-- [An e-commerce website using django](https://github.com/regihex/Hexcart)
+- null<!-- [An e-commerce website using django](https://github.com/iamsanyamgoel/Hexcart) -->
 
 ## ✍️Latest blog posts:
 
@@ -62,7 +64,7 @@ I am a learning web developer who have a particular interest in open source deve
 
 ## 📈Github stats:
 
-<img src="https://komarev.com/ghpvc/?username=regihex&color=BA67F6" height="30">
+<img src="https://komarev.com/ghpvc/?username=iamsanyamgoel&color=BA67F6" height="30">
 
-![Hex's GitHub stats](https://github-readme-stats-new-sigma.vercel.app/api?username=regihex&show_icons=true&title_color=BA67F6&icon_color=fcb1ec&text_color=21d3b2&bg_color=000000)  
-[![Top Langs](https://github-readme-stats-new-sigma.vercel.app/api/top-langs/?username=regihex&layout=compact&title_color=BA67F6&text_color=21d3b2&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+![Hex's GitHub stats](https://github-readme-stats-new-sigma.vercel.app/api?username=iamsanyamgoel&show_icons=true&title_color=BA67F6&icon_color=fcb1ec&text_color=21d3b2&bg_color=000000)  
+[![Top Langs](https://github-readme-stats-new-sigma.vercel.app/api/top-langs/?username=iamsanyamgoel&layout=compact&title_color=BA67F6&text_color=21d3b2&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
