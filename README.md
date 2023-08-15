@@ -8,7 +8,7 @@
 A Rookie Web Developer💻, Open Source Contributer⚔️ and A Space Nerd🚀!
 </h2>  
 
-I am a learning web developer who have a particular interest in open source development. I have a passion to learn new technologies and share my knowledge with others as much as possible. Space and physics are my passion. I love to understand how our universe works. My other interests are reading, football, music and video games.
+I am a learning web developer who have a particular interest in open source development. I have a passion to learn new technologies and share my knowledge with others as much as possible. Space and physics are my passion. I love to understand how our universe works. My other interests are reading, football, music and acquiring new knowledge.
 
 ## 🔍Find me elsewhere:
   
