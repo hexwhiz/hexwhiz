@@ -59,9 +59,13 @@ I am a learning web developer who have a particular interest in open source deve
 
 - [The Fantasy Terminal](https://dub.sh/thefantasyterminal)
 
+## 🏅Holopins:
+[![An image of @hexwhiz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hexwhiz)](https://holopin.io/@hexwhiz)
+
 ## 📈Github stats:
 
 <img src="https://komarev.com/ghpvc/?username=hexwhiz&color=BA67F6" height="30">
 
 ![Hex's GitHub stats](https://github-readme-stats-new-sigma.vercel.app/api?username=hexwhiz&show_icons=true&title_color=BA67F6&icon_color=fcb1ec&text_color=21d3b2&bg_color=000000)  
 [![Top Langs](https://github-readme-stats-new-sigma.vercel.app/api/top-langs/?username=hexwhiz&layout=compact&title_color=BA67F6&text_color=21d3b2&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
