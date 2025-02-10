@@ -5,14 +5,13 @@
 <h1 align="center">Namaste, I'm Sanyam 🙏</h1>
 
 <h2 align="center">
-A Rookie Web Developer💻, Open Source Contributer⚔️ and A Space Nerd🚀!
+A Web and Game Developer💻, Open Source Contributer⚔️ and A Space Nerd🚀!
 </h2>  
 
-I am a learning web developer who have a particular interest in open source development. I have a passion to learn new technologies and share my knowledge with others as much as possible. Space and physics are my passion. I love to understand how our universe works. My other interests are reading, football, music and video games.
+I love making and playing video games. I have a passion to learn new technologies and share my knowledge with others as much as possible.I have a particular interest in space and physics. I love to understand how our universe works. My other interests are reading, football, music and coffee.
 
 ## 🔍Find me elsewhere:
 
-<a href="https://t.me/iamsanyamgoel"><img height=25 src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/iamsanyamgoel/"><img height=25 src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/iamsanyamgoel"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" ></a>
 <br>
@@ -45,10 +44,10 @@ I am a learning web developer who have a particular interest in open source deve
 
 ## ⚒️My projects:
 
-- [A simple CUI based money transaction application(MyMoney) written in Java](https://github.com/hexwhiz/MyMoney)
+- [A unity based interactive hand tracking game](https://github.com/hexwhiz/SIMI)
+- [A GUI snake game using python](https://github.com/hexwhiz/blockSnake)
 - [MyMoney Android App](https://github.com/hexwhiz/MyMoney-android)
 - [Text manipulation website using django](https://github.com/hexwhiz/TextUtils)
-- [A GUI snake game using python](https://github.com/hexwhiz/blockSnake)
 - Find rest of my projects [here](https://github.com/hexwhiz?tab=repositories)
 
 ## 🎯Currently working on:
