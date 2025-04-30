@@ -50,8 +50,8 @@ I love making and playing video games. I have a passion to learn new technologie
 ## ⚒️My projects:
 
 - [A unity based interactive hand tracking game](https://github.com/hexwhiz/SIMI)
+- [An android audio game for visually impaired people](https://github.com/4SumHack36/EchoStrike)
 - [A GUI snake game using python](https://github.com/hexwhiz/blockSnake)
-- [MyMoney Android App](https://github.com/hexwhiz/MyMoney-android)
 - [A scientific calculator built using JavaFX](https://github.com/GLaDOS-MNNIT/CalciJ)
 - Find rest of my projects [here](https://github.com/hexwhiz?tab=repositories)
 
