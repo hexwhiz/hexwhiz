@@ -10,11 +10,11 @@ A Web and Game Developer💻, Open Source Contributer⚔️ and A Space Nerd🚀
 
 I love making and playing video games. I have a passion to learn new technologies and share my knowledge with others as much as possible.I have a particular interest in space and physics. I love to understand how our universe works. My other interests are reading, football, music and coffee.
 
-## 🔍Find me elsewhere:
+<!--## 🔍Find me elsewhere:
 
-<a href="https://www.instagram.com/iamsanyamgoel/"><img height=25 src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/iamsanyamgoel"><img height=25 src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" ></a>
-<br>
+<a href="https://www.instagram.com/iamsanyamgoel/"><img height=25% src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>&nbsp;&nbsp;
+<br>-->
 
 ## 🤹Technical skills:
 
