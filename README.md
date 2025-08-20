@@ -57,7 +57,7 @@ I love making and playing video games. I have a passion to learn new technologie
 
 ## 🎯Currently working on:
 
-- [A 1v1 online battler built on Spring Boot](https://github.com/Synthasix/Syncrift))
+- [A 1v1 online battler built on Spring Boot](https://github.com/Synthasix/Syncrift)
 
 ## ✍️Latest blog posts:
 
